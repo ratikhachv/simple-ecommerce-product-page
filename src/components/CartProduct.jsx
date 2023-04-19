@@ -14,7 +14,7 @@ function CartProduct(props) {
             </div>
             <div className="cart-product__info">
                 <p className="cart-product__name">
-                    Fall Limited Edition Sneakers
+                    down Limited Edition Sneakers
                 </p>
                 <p className="cart-product__price">
                     <span> $125 x {props.cartItemAmount} </span> ${125 * props.cartItemAmount}
